@@ -3,7 +3,7 @@
 [![Free Bootstrap Theme for Developers and Startups](https://github.com/LeakyAbstractions/pretty-docs/blob/master/assets/images/thumb.png?raw=true)](http://themes.3rdwavemedia.com/website-templates/prettydocs-free-bootstrap-theme-developers-and-startups/)
 
 
-## Demo
+## Dem
 
 - [GitHub Pages Demo](https://leakyabstractions.github.io/pretty-docs/)
 - [Original Demo by Xiaoying Riley](http://themes.3rdwavemedia.com/demo/prettydocs/)
